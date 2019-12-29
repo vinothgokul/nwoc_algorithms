@@ -5,7 +5,7 @@
 using namespace std; 
 
 // Number of vertices in the graph 
-#define V 5 
+#define Value2 5 
 
 // A utility function to find the vertex with 
 // minimum key value, from the set of vertices 
